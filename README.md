@@ -19,13 +19,13 @@ To use the skin parser and purchase functionality, follow these steps:
 git clone https://github.com/ProgerOffline/lis-skins-parser/
 ```
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-5. Prepare the JSON file:
+3. Prepare the JSON file:
 
 - Create a JSON file with the desired skin data. Example format:
 
