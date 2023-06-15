@@ -1,5 +1,31 @@
+# Real-Time Skin Parser and Purchase
 
-3. Prepare the JSON file:
+This repository contains a real-time skin parser that monitors and checks for new skins. It compares the characteristics of the skins, such as float value, skin name, site ID, and minimum/maximum price, with a JSON file. If there is a match, the parser automatically purchases the skin.
+
+## Features
+
+- Real-time monitoring: The parser continuously scans for new skins as they become available.
+- Comparison with JSON file: The characteristics of each skin are compared with the data stored in a JSON file.
+- Match detection: If there is a match based on float value, skin name, site ID, or price range, the parser identifies it.
+- Automated skin purchase: When a match is found, the parser initiates the purchase process for the corresponding skin.
+
+## Usage
+
+To use the skin parser and purchase functionality, follow these steps:
+
+1. Clone the repository:
+
+```
+git clone https://github.com/ProgerOffline/lis-skins-parser/
+```
+
+3. Install the required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+5. Prepare the JSON file:
 
 - Create a JSON file with the desired skin data. Example format:
 
