@@ -1,0 +1,2191 @@
+{
+    "items":[
+        {
+            "name": "MAG-7 | Insomnia",
+            "price_max": 0.5
+        },
+        {
+            "name":"M4A4 | Urban DDPAT (Field-Tested) ",
+            "price_max":0.4,
+            "stickers":[
+                [
+                    "mousesports | Berlin 2019 "
+                ],
+                [
+                    "Tyloo | Berlin 2019"
+                ]
+            ]
+        },
+        {
+            "name":"M4A4 | Urban DDPAT (Field-Tested) ",
+            "price_max":0.4,
+            "phases":[
+                {
+                    "seeds":[
+                        293
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"StatTrak™ Five-SeveN | Nightshade (Minimal Wear)",
+            "price_max":6,
+            "float_min":0.0743,
+            "float_max":0.0745
+        },
+        {
+            "name":"G3SG1 | Green Apple (Factory New)",
+            "price_max":0.31,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Souvenir MP5-SD | Lab Rats (Factory New)",
+            "price_max":0.31,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP7 | Urban Hazard (Factory New)",
+            "price_max":0.36,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"AWP | Safari Mesh (Battle-Scarred)",
+            "price_max":0.4,
+            "float_min":0.75,
+            "float_max":1
+        },
+        {
+            "name":"MAG-7 | Foresight (Factory New)",
+            "price_max":0.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"SCAR-20 | Poultrygeist (Factory New)",
+            "price_max":0.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Sawed-Off | Spirit Board (Factory New)",
+            "price_max":0.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"P2000 | Lifted Spirits (Factory New)",
+            "price_max":0.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"P2000 | Imperial (Factory New)",
+            "price_max":0.43,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Polymer (Factory New)",
+            "price_max":0.5,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"MP5-SD | Necro Jr. (Factory New)",
+            "price_max":0.5,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Galil AR | Destroyer (Factory New)",
+            "price_max":0.5,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Five-SeveN | Scrawl (Factory New)",
+            "price_max":0.6,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"UMP-45 | Roadblock (Factory New)",
+            "price_max":0.6,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Negev | Drop Me (Factory New)",
+            "price_max":0.6,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"FAMAS | Survivor Z (Factory New)",
+            "price_max":0.66,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Oxide Blaze (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Five-SeveN | Violent Daimyo (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.0011
+        },
+        {
+            "name":"MP9 | Dart (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ SG 553 | Ol' Rusty (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SG 553 | Aloha (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Jungle Slipstream (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ XM1014 | Oxide Blaze (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MAC-10 | Monkeyflage (Factory New)",
+            "price_max":0.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Nova | Wood Fired (Factory New)",
+            "price_max":0.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAC-10 | Ensnared (Factory New)",
+            "price_max":0.8,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"FAMAS | Meow 36 (Factory New)",
+            "price_max":0.8,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Glock-18 | Winterized (Factory New)",
+            "price_max":0.8,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"StatTrak™ MP7 | Armor Core (Factory New)",
+            "price_max":0.86,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Valence (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP7 | Akoben (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Assault (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"M249 | System Lock (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Negev | Prototype (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Foresight (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Poultrygeist (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"M4A4 | Poly Mag (Factory New)",
+            "price_max":0.9,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"StatTrak™ MP7 | Urban Hazard (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP9 | Modest Threat (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ SG 553 | Aerial (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Exo (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Sawed-Off | Black Sand (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ XM1014 | Slipstream (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ M249 | Spectre (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Negev | Desert-Strike (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Negev | Ultralight (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Sawed-Off | Spirit Board (Factory New)",
+            "price_max":1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP7 | Cirrus (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Corinthian (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P90 | Grim (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.0011
+        },
+        {
+            "name":"P250 | X-Ray (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP9 | Sand Scale (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MP9 | Bioleak (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ AUG | Amber Slipstream (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SG 553 | Atlas (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Popdog (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Sawed-Off | Origami (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P2000 | Lifted Spirits (Factory New)",
+            "price_max":1.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P2000 | Turf (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Polymer (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Heaven Guard (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Sonar (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Sawed-Off | Morris (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Negev | Terrain (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Galil AR | Destroyer (Factory New)",
+            "price_max":1.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"SG 553 | Anodized Navy (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Blue Ply (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Hunter (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Grotto (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ UMP-45 | Roadblock (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Negev | Drop Me (Factory New)",
+            "price_max":1.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P2000 | Imperial (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P250 | Nevermore (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"R8 Revolver | Phoenix Marker (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Rangeen (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.007
+        },
+        {
+            "name":"MP5-SD | Gauss (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Desert Strike (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Outbreak (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAG-7 | Petroglyph (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Cobalt Core (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Nova | Gila (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Sawed-Off | Full Stop (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Sawed-Off | Brake Light (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Negev | Lionfish (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Negev | dev_texture (Factory New)",
+            "price_max":1.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP9 | Goo (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"USP-S | Flashback (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Nova | Koi (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Sputnik (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Dual Berettas | Cartel (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P250 | Cyber Shell (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ R8 Revolver | Crimson Web (Minimal Wear)",
+            "price_max":1.5,
+            "float_min":0.07,
+            "float_max":0.08
+        },
+        {
+            "name":"Tec-9 | Brother (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"MP5-SD | Kitbash (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Nova | Wild Six (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Windblown (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"XM1014 | Ziggy (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"M249 | Magma (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ M249 | O.S.I.P.R. (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Monkeyflage (Factory New)",
+            "price_max":1.5,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Tec-9 | Re-Entry (Factory New)",
+            "price_max":1.51,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Supernova (Factory New)",
+            "price_max":1.51,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"UMP-45 | Moonrise (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P90 | Elite Build (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"M4A4 | Converter (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MP5-SD | Co-Processor (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Tec-9 | Bamboozle (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"MAC-10 | Pipe Down (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"MAC-10 | Button Masher (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ PP-Bizon | Harvester (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"AUG | Radiation Hazard (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ XM1014 | Quicksilver (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Necro Jr. (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"PP-Bizon | Space Cat (Factory New)",
+            "price_max":1.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Five-SeveN | Kami (Factory New)",
+            "price_max":1.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"UMP-45 | Arctic Wolf (Factory New)",
+            "price_max":1.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP9 | Deadly Poison (Factory New)",
+            "price_max":1.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Glock-18 | Moonrise (Factory New)",
+            "price_max":1.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"AUG | Amber Fade (Factory New)",
+            "price_max":1.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"USP-S | Torque (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Five-SeveN | Urban Hazard (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"PP-Bizon | Osiris (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"CZ75-Auto | Red Astor (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Tacticat (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ FAMAS | Survivor Z (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Crimson Web (Minimal Wear)",
+            "price_max":1.8,
+            "float_min":0.07,
+            "float_max":0.073
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Circaetus (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"P250 | Inferno (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ FAMAS | Crypsis (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ Galil AR | Akoben (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"M4A1-S | Fizzy POP (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SG 553 | Heavy Metal (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"G3SG1 | Azure Zebra (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Murky (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Blueprint (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAG-7 | SWAG-7 (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Sawed-Off | Amber Fade (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"M249 | Aztec (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Negev | Nuclear Waste (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"G3SG1 | Dream Glade (Factory New)",
+            "price_max":1.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"P250 | Inferno (Factory New)",
+            "price_max":1.9,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MAC-10 | Allure (Factory New)",
+            "price_max":1.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Carnivore (Factory New)",
+            "price_max":1.9,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"XM1014 | Black Tie (Factory New)",
+            "price_max":1.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P90 | Module (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Bronze Deco (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Dual Berettas | Panther (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Dual Berettas | Balance (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Whitefish (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"MP5-SD | Bamboo Garden (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"FAMAS | Neural Net (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Green Marine (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Five-SeveN | Scrawl (Factory New)",
+            "price_max":2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"UMP-45 | Plastique (Factory New)",
+            "price_max":2.01,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"PP-Bizon | Photic Zone (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Army Sheen (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"CZ75-Auto | Tuxedo (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"CZ75-Auto | Pole Position (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"Dual Berettas | Dualing Dragons (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP9 | Dart (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P90 | Chopper (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SG 553 | Fallout Warning (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SCAR-20 | Powercore (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SSG 08 | Fever Dream (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MAG-7 | Monster Call (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Nova | Ranger (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Sawed-Off | Jungle Thicket (Factory New)",
+            "price_max":2.1,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Dual Berettas | Anodized Navy (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"MAC-10 | Last Dive (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"SCAR-20 | Enforcer (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SSG 08 | Hand Brake (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Sawed-Off | Apocalypto (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Sawed-Off | Yorick (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ M249 | System Lock (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Ensnared (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ FAMAS | Meow 36 (Factory New)",
+            "price_max":2.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Glock-18 | Candy Apple (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"USP-S | Lead Conduit (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Meteorite (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"CZ75-Auto | Tigris (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"SG 553 | Darkwing (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP9 | Ruby Poison Dart (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"AUG | Aristocrat (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Digital Mesh (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Torn (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"XM1014 | Teclu Burner (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"XM1014 | Seasons (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ XM1014 | Scumbria (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"M249 | Emerald Poison Dart (Factory New)",
+            "price_max":2.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Galil AR | Blue Titanium (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"AWP | Phobos (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P2000 | Acid Etched (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Desert Eagle | Oxide Blaze (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Vendetta (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"P250 | Gunsmoke (Minimal Wear)",
+            "price_max":2.4,
+            "float_min":0.07,
+            "float_max":0.073
+        },
+        {
+            "name":"Galil AR | Tuxedo (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ SSG 08 | Mainframe 001 (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"M4A1-S | Night Terror (Factory New)",
+            "price_max":2.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Sawed-Off | Limelight (Factory New)",
+            "price_max":2.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Galil AR | Kami (Factory New)",
+            "price_max":2.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P90 | Desert Warfare (Factory New)",
+            "price_max":2.5,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ M249 | Magma (Factory New)",
+            "price_max":2.5,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Glock-18 | Weasel (Factory New)",
+            "price_max":2.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Acid Wash (Factory New)",
+            "price_max":2.6,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ Galil AR | Black Sand (Factory New)",
+            "price_max":2.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"SG 553 | Damascus Steel (Factory New)",
+            "price_max":2.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SSG 08 | Acid Fade (Factory New)",
+            "price_max":2.7,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Glock-18 | Bunsen Burner (Factory New)",
+            "price_max":2.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"G3SG1 | High Seas (Factory New)",
+            "price_max":2.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"SSG 08 | Carbon Fiber (Factory New)",
+            "price_max":2.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"USP-S | Ticket to Hell (Factory New)",
+            "price_max":2.7,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"AWP | Worm God (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MP5-SD | Agent (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P250 | Valence (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Dual Berettas | Briar (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Condition Zero (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"MP7 | Powercore (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ AUG | Ricochet (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SG 553 | Barricade (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Black Sand (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAG-7 | BI83 Spectrum (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Nova | Toy Soldier (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Sawed-Off | Highwayman (Factory New)",
+            "price_max":2.8,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ P90 | Module (Factory New)",
+            "price_max":2.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Five-SeveN | Boost Protocol (Factory New)",
+            "price_max":2.9,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"FAMAS | Night Borre (Factory New)",
+            "price_max":2.9,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Scavenger (Factory New)",
+            "price_max":2.9,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Button Masher (Factory New)",
+            "price_max":3,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"StatTrak™ Negev | Lionfish (Factory New)",
+            "price_max":3,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"SG 553 | Tiger Moth (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"MP7 | Powercore (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"UMP-45 | Scaffold (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MP7 | Cirrus (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Desert Eagle | Trigger Discipline (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ P90 | Traction (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Keeping Tabs (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Plume (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Negev | dev_texture (Factory New)",
+            "price_max":3.1,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"AUG | Navy Murano (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Dual Berettas | Urban Shock (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ P250 | Cyber Shell (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ UMP-45 | Exposure (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"StatTrak™ SG 553 | Phantom (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ MAG-7 | Petroglyph (Factory New)",
+            "price_max":3.2,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ MP9 | Goo (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ UMP-45 | Moonrise (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Nova | Wild Six (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ XM1014 | Ziggy (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"M249 | Downtown (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"P90 | Vent Rush (Factory New)",
+            "price_max":3.3,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"StatTrak™ UMP-45 | Arctic Wolf (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P90 | Grim (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Green Plaid (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"Five-SeveN | Retrobution (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Kitbash (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.007
+        },
+        {
+            "name":"StatTrak™ MP5-SD | Gauss (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.011
+        },
+        {
+            "name":"StatTrak™ PP-Bizon | Lumen (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Galil AR | Signal (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"StatTrak™ Galil AR | Vandal (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Sawed-Off | Serenity (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Negev | Boroque Sand (Factory New)",
+            "price_max":3.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ AUG | Plague (Factory New)",
+            "price_max":3.5,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Galil AR | Connexion (Factory New)",
+            "price_max":3.5,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"CZ75-Auto | Eco (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"SSG 08 | Ghost Crusader (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"M4A1-S | Flashback (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ USP-S | Flashback (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"CZ75-Auto | Hexane (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"Dual Berettas | Retribution (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ Dual Berettas | Retribution (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"P250 | Facets (Minimal Wear)",
+            "price_max":3.6,
+            "float_min":0.07,
+            "float_max":0.073
+        },
+        {
+            "name":"StatTrak™ P250 | Nevermore (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"Tec-9 | Avalanche (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ MP7 | Guerrilla (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Gila (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"M249 | Impact Drill (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ M249 | Deep Relief (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ M4A4 | Poly Mag (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"SG 553 | Dragon Tech (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Dual Berettas | Flora Carnivora (Factory New)",
+            "price_max":3.6,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Dual Berettas | Royal Consorts (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Five-SeveN | Urban Hazard (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"PP-Bizon | Brass (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAG-7 | Seabird (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"MAG-7 | Heat (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ PP-Bizon | Space Cat (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"R8 Revolver | Crazy 8 (Factory New)",
+            "price_max":3.7,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"USP-S | Blood Tiger (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Desert Eagle | Bronze Deco (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Galil AR | Kami (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Dual Berettas | Moon in Libra (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Dual Berettas | Cartel (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Mint Kimono (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Tec-9 | Brother (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"MAC-10 | Malachite (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"MP7 | Impire (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"FAMAS | Macabre (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"AWP | Acheron (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"MAG-7 | Praetorian (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Glock-18 | Winterized (Factory New)",
+            "price_max":3.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Pipe Down (Factory New)",
+            "price_max":3.9,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Dream Glade (Factory New)",
+            "price_max":3.9,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Tacticat (Factory New)",
+            "price_max":4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"Five-SeveN | Triumvirate (Factory New)",
+            "price_max":4,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ P250 | Inferno (Factory New)",
+            "price_max":4,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ Tec-9 | Bamboozle (Factory New)",
+            "price_max":4,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"Sawed-Off | Bamboo Shadow (Factory New)",
+            "price_max":4,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Red Astor (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"USP-S | Cyrex (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"P2000 | Handgun (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"MP7 | Special Delivery (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Pole Position (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"MP7 | Ocean Foam (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"PP-Bizon | Fuel Rod (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"FAMAS | Hexane (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Stinger (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SCAR-20 | Powercore (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.007
+        },
+        {
+            "name":"Nova | Moon in Libra (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Ghost Camo (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ M249 | Aztec (Factory New)",
+            "price_max":4.1,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"StatTrak™ Glock-18 | Moonrise (Factory New)",
+            "price_max":4.2,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MAC-10 | Allure (Factory New)",
+            "price_max":4.2,
+            "float_min":0,
+            "float_max":0.007
+        },
+        {
+            "name":"StatTrak™ Desert Eagle | Corinthian (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"SSG 08 | Abyss (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.001
+        },
+        {
+            "name":"Desert Eagle | Light Rail (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P2000 | Turf (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ Tec-9 | Re-Entry (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ Nova | Koi (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MAC-10 | Aloha (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"MAG-7 | Hard Water (Factory New)",
+            "price_max":4.3,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"Tec-9 | Blue Titanium (Factory New)",
+            "price_max":4.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Wingshot (Factory New)",
+            "price_max":4.4,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"M4A1-S | Blood Tiger (Factory New)",
+            "price_max":4.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Hive (Factory New)",
+            "price_max":4.4,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"M249 | Nebula Crusader (Factory New)",
+            "price_max":4.4,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ P250 | Supernova (Factory New)",
+            "price_max":4.5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"UMP-45 | Gold Bismuth (Factory New)",
+            "price_max":4.5,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ USP-S | Torque (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"Glock-18 | Steel Disruption (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ P250 | Inferno (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"StatTrak™ PP-Bizon | Osiris (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ CZ75-Auto | Crimson Web (Minimal Wear)",
+            "price_max":4.6,
+            "float_min":0.07,
+            "float_max":0.08
+        },
+        {
+            "name":"Dual Berettas | Dezastre (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ PP-Bizon | Water Sigil (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ SG 553 | Triarch (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ M249 | Emerald Poison Dart (Factory New)",
+            "price_max":4.6,
+            "float_min":0,
+            "float_max":0.004
+        },
+        {
+            "name":"USP-S | Guardian (Factory New)",
+            "price_max":4.7,
+            "float_min":0,
+            "float_max":0.005
+        },
+        {
+            "name":"PP-Bizon | Embargo (Factory New)",
+            "price_max":4.7,
+            "float_min":0,
+            "float_max":0.01
+        },
+        {
+            "name":"StatTrak™ UMP-45 | Plastique (Factory New)",
+            "price_max":4.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"USP-S | Black Lotus (Factory New)",
+            "price_max":4.8,
+            "float_min":0,
+            "float_max":0.002
+        },
+        {
+            "name":"PP-Bizon | Chemical Green (Factory New)",
+            "price_max":4.8,
+            "float_min":0,
+            "float_max":0.008
+        },
+        {
+            "name":"StatTrak™ G3SG1 | Azure Zebra (Factory New)",
+            "price_max":4.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MAG-7 | SWAG-7 (Factory New)",
+            "price_max":4.8,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"MP7 | Neon Ply (Factory New)",
+            "price_max":4.9,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ Galil AR | Firefight (Factory New)",
+            "price_max":5,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"AWP | PAW (Factory New)",
+            "price_max":5.01,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"StatTrak™ MP9 | Deadly Poison (Factory New)",
+            "price_max":5.1,
+            "float_min":0,
+            "float_max":0.003
+        },
+        {
+            "name":"P250 | Dark Filigree (Factory New)",
+            "price_max":5.1,
+            "float_min":0,
+            "float_max":0.006
+        },
+        {
+            "name":"StatTrak™ R8 Revolver | Memento (Factory New)",
+            "price_max":5.1,
+            "float_min":0,
+            "float_max":0.004
+        }
+    ]
+}
