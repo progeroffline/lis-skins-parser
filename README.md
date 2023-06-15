@@ -36,11 +36,11 @@
 
 4. Configure and run the skin parser:
 
-- Open the `parser.py` file and modify it as needed, specifying the paths to the HTML source and JSON file.
+- Open the `app.py` file and modify it as needed, specifying the paths to the HTML source and JSON file.
 - Run the parser:
 
   ```
-  python parser.py
+  python app.py
   ```
 
 - The parser will continuously monitor new skins and attempt to purchase any that match the criteria defined in the JSON file.
